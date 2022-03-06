@@ -1,0 +1,12 @@
+D:\Diplomatura .net\Proyectos .net\SolucionEmpleados\AppEmpleados\bin\Debug\AppEmpleados.exe.config
+D:\Diplomatura .net\Proyectos .net\SolucionEmpleados\AppEmpleados\bin\Debug\AppEmpleados.exe
+D:\Diplomatura .net\Proyectos .net\SolucionEmpleados\AppEmpleados\bin\Debug\AppEmpleados.pdb
+D:\Diplomatura .net\Proyectos .net\SolucionEmpleados\AppEmpleados\obj\Debug\AppEmpleados.csproj.AssemblyReference.cache
+D:\Diplomatura .net\Proyectos .net\SolucionEmpleados\AppEmpleados\obj\Debug\AppEmpleados.csproj.SuggestedBindingRedirects.cache
+D:\Diplomatura .net\Proyectos .net\SolucionEmpleados\AppEmpleados\obj\Debug\AppEmpleados.frmAltaEmpleado.resources
+D:\Diplomatura .net\Proyectos .net\SolucionEmpleados\AppEmpleados\obj\Debug\AppEmpleados.frmPrincipal.resources
+D:\Diplomatura .net\Proyectos .net\SolucionEmpleados\AppEmpleados\obj\Debug\AppEmpleados.Properties.Resources.resources
+D:\Diplomatura .net\Proyectos .net\SolucionEmpleados\AppEmpleados\obj\Debug\AppEmpleados.csproj.GenerateResource.cache
+D:\Diplomatura .net\Proyectos .net\SolucionEmpleados\AppEmpleados\obj\Debug\AppEmpleados.csproj.CoreCompileInputs.cache
+D:\Diplomatura .net\Proyectos .net\SolucionEmpleados\AppEmpleados\obj\Debug\AppEmpleados.exe
+D:\Diplomatura .net\Proyectos .net\SolucionEmpleados\AppEmpleados\obj\Debug\AppEmpleados.pdb
